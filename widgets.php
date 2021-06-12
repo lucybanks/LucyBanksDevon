@@ -1,4 +1,4 @@
-<?php
+<?html
 /**
  * Widget administration panel
  *
@@ -571,7 +571,7 @@ foreach ( $theme_sidebars as $sidebar => $registered_sidebar ) {
 	</div>
 </div>
 
-<?php
+<?html
 
 /**
  * Fires after the available widgets and sidebars have loaded, before the admin footer.
